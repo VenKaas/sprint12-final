@@ -26,9 +26,6 @@
       <change afterPath="$PROJECT_DIR$/../hello/practicum.go" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../hello/temp/lelek.txt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../prime/prime.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sprint12-final.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../todo-list/.idea/todo-list.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../EpQXW8GSU-s.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../LA3_xSqXI_E.jpg" afterDir="false" />
@@ -1778,6 +1775,8 @@
       <change afterPath="$PROJECT_DIR$/../../архив/смм_вакансия_инженер_конструктор_ит_некр.jpg - Ярлык (3).lnk" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../архив/смм_вакансия_инженер_конструктор_ит_некр.jpg - Ярлык (4).lnk" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../архив/смм_вакансия_инженер_конструктор_ит_некр.jpg - Ярлык.lnk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -1786,7 +1785,7 @@
   </component>
   <component name="GOROOT" url="file://$PROJECT_DIR$/../../../../../Program Files/Go" />
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2fVo6L9qQSo2WmF1JeRcRQrjEJ0" />
   <component name="ProjectViewState">
@@ -1800,7 +1799,7 @@
     "RunOnceActivity.go.migrated.go.modules.settings": "true",
     "RunOnceActivity.go.modules.go.list.on.any.changes.was.set": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "New__branch",
     "go.import.settings.migrated": "true",
     "go.sdk.automatically.set": "true",
     "last_opened_file_path": "C:/Users/Vladislav/Desktop/Dev/sprint12-final",
@@ -1808,6 +1807,17 @@
     "node.js.selected.package.eslint": "(autodetect)"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Vladislav\Desktop\Dev\sprint12-final" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="docker-deploy" factoryName="dockerfile" temporary="true">
+      <deployment type="dockerfile" />
+      <method v="2" />
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
